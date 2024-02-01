@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F82" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Notes" representedClassName="Notes" syncable="YES">
+        <attribute name="complitedNote" optional="YES" attributeType="Boolean" valueTransformerName="noteIsCompl" usesScalarValueType="YES"/>
+        <attribute name="textNote" optional="YES" attributeType="String"/>
+        <attribute name="titleNote" optional="YES" attributeType="String"/>
+    </entity>
+</model>
